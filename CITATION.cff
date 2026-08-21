@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QES-GPU-GMD-release"
+type: software
+version: 1.0.0
+license: GPL-3.0
+
+authors:
+  - given-names: "Xinpeng"
+    family-names: "Li"
+
+  - given-names: "Qixuan"
+    family-names: "Liu"
+
+  - given-names: "Zhaoyang"
+    family-names: "Wang"
+
+  - given-names: "Sheng"
+    family-names: "Fang"
+
+repository-code: "https://github.com/Liuqx1347/QES-GPU-GMD-release"
+
+abstract: "GPU-accelerated QES source code and openly distributable test cases accompanying the Geoscientific Model Development manuscript."
+
+keywords:
+  - QES
+  - GPU acceleration
+  - CUDA
+  - atmospheric dispersion
+  - Lagrangian particle model
