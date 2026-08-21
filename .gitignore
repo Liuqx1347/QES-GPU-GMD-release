@@ -1,0 +1,35 @@
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# Runtime output
+*.nc
+*.vtk
+*.log
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~

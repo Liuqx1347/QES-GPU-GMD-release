@@ -1,0 +1,22 @@
+GPU modifications developed for the GMD manuscript
+
+Base software:
+QES v2.0.2
+
+QES-Turb modifications:
+src/winds/CMakeLists.txt
+src/winds/LocalMixingSerial.cpp
+src/winds/LocalMixingSerialGPU.cu
+src/winds/LocalMixingSerialGPU.hpp
+
+QES-Plume modifications:
+src/plume/CMakeLists.txt
+src/plume/AdvectParticleGPU_demo.cu
+src/plume/AdvectParticleGPU_demo.hpp
+src/plume/Plume.cpp
+src/plume/Plume.hpp
+src/plume/Particle.hpp
+src/plume/PlumeOutputParticleData.cpp
+src/plume/DepositParticle.cpp
+src/plume/PlumeOutput.cpp
+src/plume/PlumeOutput.hpp
