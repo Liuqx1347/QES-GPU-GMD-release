@@ -39,9 +39,8 @@ QES-GPU-GMD-release/
     ├── qesWinds/
     ├── qesPlume/
     ├── src/
-    ├── scratch/
     └── testCases/
-        └── EPA_7x11array/
+    └── EPA_7x11array/
 ```
 
 ### Main contents
